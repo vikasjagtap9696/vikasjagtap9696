@@ -119,14 +119,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikasjagtap9696&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasjagtap9696&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=vikasjagtap9696&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vikasjagtap9696&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasjagtap9696&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vikasjagtap9696&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikasjagtap9696&theme=tokyo-night&hide_border=true" width="48%" />
 </p>
+
+> ℹ️ Note: These are free public services (not GitHub's own). If any card still shows broken, wait a few minutes and refresh — their servers occasionally rate-limit or go down for short periods.
 
 ---
 
