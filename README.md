@@ -29,6 +29,17 @@
 
 ---
 
+### 📚 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20SAA--C03-in%20progress-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-exploring-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-exploring-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Security-exploring-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 **Cloud Platforms**
@@ -132,11 +143,73 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vikasjagtap9696&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+### 📌 Pinned Repositories
+
+> Go to your GitHub profile → click **Customize your pins** → select your top 6 repos (e.g. the 3 AWS projects above once pushed). Pinned repos show up automatically as cards right below your profile header — no README code needed for those.
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vikasjagtap9696/vikasjagtap9696/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> ⚙️ Setup required: this animated snake needs a one-time GitHub Action. Steps below.
+
+---
+
 ### 🎓 Education
 
 **B.Sc – Computer Science** | CGPA: 8.88 / 10.0 | Jun 2023 – May 2026
 Tuljaram Chaturchand College of Arts, Commerce, Science, Baramati (Affiliated to SPPU, Pune)
 Coursework: Data Structures & Algorithms, Operating Systems, Computer Networks, DBMS, Cloud Computing, Software Engineering, Java Programming
+
+---
+
+### ⚙️ One-Time Setup: Snake Animation
+
+To make the contribution snake above actually work:
+1. In your `vikasjagtap9696/vikasjagtap9696` repo, create a file: `.github/workflows/snake.yml`
+2. Paste this content:
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: vikasjagtap9696
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+3. Commit it — the Action runs automatically and generates the snake SVG on an `output` branch, which the README image link above already points to.
 
 ---
 
