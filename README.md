@@ -143,7 +143,6 @@
 - Deployed application servers in private subnets with secure access via a public load balancer
 - Troubleshot connectivity, routing, DNS, and security-related issues
 
-> 💡 Tip: The links above use suggested repo names (`aws-ha-web-app` etc). Rename them to match your actual repo names once created, or send me the real repo URLs and I'll update this file.
 
 ---
 
