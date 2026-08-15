@@ -12,18 +12,12 @@
   <img src="https://img.shields.io/github/followers/vikasjagtap9696?label=Followers&style=social" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Services%20Explored-40%2B-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Projects%20Built-30%2B-success?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
 ---
 
 ### 🚀 About Me
 
 - 🎓 Computer Science graduate (B.Sc CS, CGPA 8.88/10.0), SPPU Pune
 - ☁️ Hands-on knowledge of **40+ AWS services** across compute, storage, networking, security, databases, monitoring, and serverless
-- 🏗️ Built **30+ hands-on cloud projects** and labs covering architecture design, automation, and troubleshooting
 - 🌐 Working exposure to **Microsoft Azure** and **Google Cloud Platform (GCP)** fundamentals
 - 🐧 Skilled in **Linux administration**, shell scripting, and troubleshooting
 - 🔀 Comfortable with **Git/GitHub/GitLab** version control workflows
@@ -66,12 +60,22 @@
   <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
   <img src="https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazoniam&logoColor=white" />
   <img src="https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/EBS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/EFS-569A31?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELB-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auto%20Scaling-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
   <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudTrail-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Route53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white" />
   <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazoncloudfront&logoColor=white" />
   <img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/SNS-FF4F8B?style=flat-square&logo=amazonsimplenotificationservice&logoColor=white" />
+  <img src="https://img.shields.io/badge/NAT%20Gateway-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security%20Groups-DD344C?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/NACL-DD344C?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
 **OS, Web & Scripting**
@@ -101,30 +105,36 @@
 
 ---
 
+---
+
+### 📌 Pinned Repositories
+
+> ⚠️ Projects below won't show real code until pushed to GitHub. Create a repo for each project (e.g. `aws-ha-web-app`, `aws-monitoring-platform`, `aws-secure-network`), push your work, then go to your GitHub profile → **Customize your pins** → select these 3 repos. They'll appear as cards right below your profile header automatically.
+
 ### 🏗️ Featured Projects
 
-#### 🔹 [AWS Highly Available & Fault-Tolerant Web Application](https://github.com/vikasjagtap9696)
+#### 🔹 [AWS Highly Available & Fault-Tolerant Web Application](https://github.com/vikasjagtap9696/aws-ha-web-app)
 `VPC` `EC2` `ALB` `Auto Scaling` `RDS` `Route 53` `CloudWatch` `IAM`
 - Designed a highly available architecture using multi-AZ EC2 instances behind an Application Load Balancer
 - Configured Auto Scaling and health checks for automatic instance replacement and traffic distribution
 - Implemented RDS for managed database services and CloudWatch for monitoring and alerting
 - Configured IAM roles and Security Groups following least-privilege principles
 
-#### 🔹 [AWS Infrastructure Monitoring & Incident Response Platform](https://github.com/vikasjagtap9696)
+#### 🔹 [AWS Infrastructure Monitoring & Incident Response Platform](https://github.com/vikasjagtap9696/aws-monitoring-platform)
 `EC2` `CloudWatch` `SNS` `CloudTrail` `IAM` `S3` `Linux`
 - Implemented centralized monitoring for EC2 infrastructure using CloudWatch metrics, logs, and alarms
 - Configured SNS notifications for CPU, disk, and availability-related events
 - Used CloudTrail and CloudWatch logs for troubleshooting and activity analysis
 - Performed Linux-based troubleshooting for services, processes, disk usage, and system logs
 
-#### 🔹 [AWS Secure Multi-Tier Network Architecture](https://github.com/vikasjagtap9696)
+#### 🔹 [AWS Secure Multi-Tier Network Architecture](https://github.com/vikasjagtap9696/aws-secure-network)
 `VPC` `Public/Private Subnets` `NAT Gateway` `Route Tables` `Security Groups` `NACL` `EC2` `RDS`
 - Designed a secure multi-tier network with public and private subnets across multiple AZs
 - Configured route tables, NAT Gateway, Security Groups, and NACLs to control traffic
 - Deployed application servers in private subnets with secure access via a public load balancer
 - Troubleshot connectivity, routing, DNS, and security-related issues
 
-> 💡 Tip: Replace the project links above with the direct repo URLs once you add these projects to GitHub.
+> 💡 Tip: The links above use suggested repo names (`aws-ha-web-app` etc). Rename them to match your actual repo names once created, or send me the real repo URLs and I'll update this file.
 
 ---
 
@@ -162,12 +172,6 @@
 
 ---
 
-### 📌 Pinned Repositories
-
-> Go to your GitHub profile → click **Customize your pins** → select your top 6 repos (e.g. the 3 AWS projects above once pushed). Pinned repos show up automatically as cards right below your profile header — no README code needed for those.
-
----
-
 ---
 
 ### 🎓 Education
@@ -175,8 +179,6 @@
 **B.Sc – Computer Science** | CGPA: 8.88 / 10.0 | Jun 2023 – May 2026
 Tuljaram Chaturchand College of Arts, Commerce, Science, Baramati (Affiliated to SPPU, Pune)
 Coursework: Data Structures & Algorithms, Operating Systems, Computer Networks, DBMS, Cloud Computing, Software Engineering, Java Programming
-
----
 
 ---
 
