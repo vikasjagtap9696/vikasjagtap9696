@@ -54,7 +54,10 @@
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
-**AWS Services**
+**AWS Services (30+)**
+<p>
+  <img src="https://img.shields.io/badge/AWS%20Services%20Explored-30%2B-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
 <p>
   <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
   <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
@@ -63,6 +66,7 @@
   <img src="https://img.shields.io/badge/EBS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/EFS-569A31?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-527FFF?style=flat-square&logo=amazondynamodb&logoColor=white" />
   <img src="https://img.shields.io/badge/ELB-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Auto%20Scaling-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
@@ -76,6 +80,17 @@
   <img src="https://img.shields.io/badge/NAT%20Gateway-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Security%20Groups-DD344C?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/NACL-DD344C?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white" />
+  <img src="https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazonecs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic%20Beanstalk-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/KMS-DD344C?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Secrets%20Manager-DD344C?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Systems%20Manager-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic%20IP-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transit%20Gateway-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Organizations-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cost%20Explorer-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
 **OS, Web & Scripting**
@@ -104,12 +119,6 @@
 </p>
 
 ---
-
----
-
-### 📌 Pinned Repositories
-
-> ⚠️ Projects below won't show real code until pushed to GitHub. Create a repo for each project (e.g. `aws-ha-web-app`, `aws-monitoring-platform`, `aws-secure-network`), push your work, then go to your GitHub profile → **Customize your pins** → select these 3 repos. They'll appear as cards right below your profile header automatically.
 
 ### 🏗️ Featured Projects
 
@@ -158,16 +167,6 @@
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vikasjagtap9696&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikasjagtap9696&theme=tokyo-night&hide_border=true" width="48%" />
-</p>
-
-> ℹ️ Note: These are free public services (not GitHub's own). If any card still shows broken, wait a few minutes and refresh — their servers occasionally rate-limit or go down for short periods.
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikasjagtap9696&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
