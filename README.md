@@ -1,418 +1,149 @@
-# 👋 Hi, I'm Vikas Jagtap
-
-### ☁️ AWS Cloud & DevOps Engineer | Cloud Infrastructure | Linux | Automation
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-## 🚀 About Me
-
-I am a **BSc Computer Science graduate** passionate about **Cloud Computing, AWS, DevOps, Linux, Infrastructure Automation, and CI/CD**.
-
-I enjoy building hands-on cloud infrastructure and understanding how applications are **deployed, secured, monitored, scaled, and maintained** in real-world environments.
-
-My current focus is on developing strong practical skills in:
-
-* ☁️ AWS Cloud Infrastructure
-* 🐧 Linux Administration
-* 🐳 Docker & Containerization
-* 🔄 CI/CD Automation
-* 🌐 Networking & Troubleshooting
-* 🏗️ Infrastructure as Code
-* 📊 Monitoring & Reliability
-* 🔐 Cloud Security & IAM
-
-I believe in learning by **building, breaking, troubleshooting, and improving real-world systems**.
-
----
-
-## 🧰 Technical Skills
-
-### ☁️ Cloud — AWS
-
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
-<img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
-**Services & Concepts**
-
-`EC2` `S3` `EBS` `RDS` `VPC` `IAM` `Route 53`
-`ALB` `Target Groups` `ACM` `CloudFront` `Lambda`
-`CloudWatch` `Storage Gateway` `DataSync` `DMS`
-`Elastic Beanstalk` `Auto Scaling` `Security Groups` `NACL`
-
----
-
-### ⚙️ DevOps
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-* Git & GitHub
-* Docker
-* Docker Compose
-* GitHub Actions
-* CI/CD
-* Linux Administration
-* Shell Scripting
-* Deployment Automation
-* Infrastructure Troubleshooting
-
----
-
-### 💻 Programming & Development
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-`Java` `C` `C++` `JavaScript` `HTML5` `CSS3` `React`
-`SQL` `PostgreSQL` `MySQL` `REST API`
-
----
-
-## 🏗️ Featured Cloud & DevOps Projects
-
-### 🔵🟢 AWS Blue-Green Deployment
-
-**Architecture:**
-`Route 53 → ALB → Target Groups → EC2`
-
-Implemented a Blue-Green deployment architecture with separate production and new-version environments.
-
-**Blue Environment**
-
-* Current production version
-* Blue Target Group
-* Blue EC2 Server 1
-* Blue EC2 Server 2
-
-**Green Environment**
-
-* New application version
-* Green Target Group
-* Green EC2 Server 1
-* Green EC2 Server 2
-
-**Key concepts implemented:**
-
-* Application Load Balancer
-* HTTP/HTTPS Listeners
-* Route 53 DNS
-* ACM SSL/TLS
-* Target Groups
-* EC2
-* Health Checks
-* Traffic Switching
-* Rollback Strategy
-
-🔗 **Repository:** `Add project repository link`
-
----
-
-### ☁️ AWS Storage Gateway
-
-Built a practical AWS Storage Gateway environment to understand how on-premises storage can integrate with AWS cloud storage.
-
-**Technologies:**
-
-`AWS Storage Gateway` `S3` `VMware` `Linux` `IAM`
-
-**Key Learning Areas:**
-
-* Storage Gateway architecture
-* Gateway deployment
-* AWS S3 integration
-* Data transfer
-* Storage management
-* Cloud-based storage architecture
-
-🔗 **Repository:** `Add project repository link`
-
----
-
-### 🔄 AWS DataSync
-
-Implemented a practical AWS DataSync project focused on understanding automated data transfer between storage environments.
-
-**Technologies:**
-
-`AWS DataSync` `S3` `EC2` `Linux` `Networking`
-
-**Key Learning Areas:**
-
-* DataSync architecture
-* Source and destination configuration
-* Data transfer tasks
-* Task execution
-* Monitoring transfer status
-* Cloud storage integration
-
-🔗 **Repository:** `Add project repository link`
-
----
-
-## 🔐 Cloud Security Practices
-
-I focus on following basic cloud security best practices:
-
-* IAM least-privilege access
-* Security Group configuration
-* Network-level access control
-* HTTPS/TLS using ACM
-* Avoiding hard-coded credentials
-* Using `.gitignore` for sensitive files
-* Protecting AWS Access Keys and Secret Keys
-* Separating application environments
-* Monitoring cloud resources
-
-> 🔒 **No AWS credentials, private keys, passwords, or sensitive configuration are stored in my repositories.**
-
----
-
-## 🌐 AWS Networking Knowledge
-
-```text
-VPC
-│
-├── Public Subnet
-│     └── Internet-facing Resources
-│
-├── Private Subnet
-│     └── Application / Database Resources
-│
-├── Route Tables
-│
-├── Internet Gateway
-│
-├── NAT Gateway
-│
-├── Security Groups
-│
-└── Network ACL
-```
-
-### Networking Concepts
-
-`IPv4` `CIDR` `Subnetting` `Route Tables`
-`Internet Gateway` `NAT Gateway` `Security Groups`
-`NACL` `DNS` `HTTP` `HTTPS` `TCP/IP`
-
----
-
-## 🐧 Linux
-
-Hands-on experience and practice with:
-
-```text
-File Management
-Process Management
-Users & Groups
-Permissions
-Networking
-Services
-Package Management
-Disk Management
-Log Management
-Shell Commands
-System Troubleshooting
-```
-
-Common commands:
-
-`ls` `cd` `cp` `mv` `rm` `cat` `grep` `find`
-`chmod` `chown` `ps` `top` `df` `du` `systemctl`
-`journalctl` `curl` `wget` `ssh` `scp` `rsync`
-
----
-
-## 🐳 Containerization
-
-Currently developing practical knowledge of:
-
-* Docker Images
-* Docker Containers
-* Dockerfile
-* Docker Volumes
-* Docker Networks
-* Docker Compose
-* Containerized Applications
-* Docker-based Deployment
-
----
-
-## 🔄 CI/CD Learning Path
-
-```text
-Developer
-    │
-    ▼
-    Git
-    │
-    ▼
-   GitHub
-    │
-    ▼
-GitHub Actions
-    │
-    ▼
-Build
-    │
-    ▼
-Test
-    │
-    ▼
-Docker Image
-    │
-    ▼
-Deploy
-    │
-    ▼
-AWS
-```
-
----
-
-## 📈 DevOps Learning Roadmap
-
-```text
-AWS
- │
- ├── EC2 / VPC / IAM
- │
- ├── Load Balancing
- │
- └── Storage & Databases
-        │
-        ▼
-Linux
-        │
-        ▼
-Git & GitHub
-        │
-        ▼
-Docker
-        │
-        ▼
-CI/CD
-        │
-        ▼
-Terraform
-        │
-        ▼
-Kubernetes
-        │
-        ▼
-Cloud-Native DevOps
-```
-
----
-
-## 📊 GitHub Statistics
+<h1 align="center">Hi 👋, I'm Vikas Jagtap</h1>
+<h3 align="center">☁️ Cloud Support Engineer | AWS | Linux | Networking | DevOps</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="170"/>
+  <a href="https://linkedin.com/in/vikasjagtap9696" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vikasjagtap.9996@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Hyderabad,%20India-informational?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
-
----
-
-## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=vikasjagtap9696&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/vikasjagtap9696?label=Followers&style=social" />
 </p>
 
 ---
 
-## 🎯 Current Goals
+### 🚀 About Me
 
-* [ ] Strengthen AWS Cloud Infrastructure skills
-* [ ] Build production-style AWS projects
-* [ ] Improve Linux administration
-* [ ] Master Docker
-* [ ] Build CI/CD pipelines
-* [ ] Learn Terraform
-* [ ] Learn Kubernetes
-* [ ] Improve cloud security knowledge
-* [ ] Prepare for AWS/DevOps interviews
-* [ ] Contribute to open-source projects
-
----
-
-## 💼 Career Interests
-
-I am interested in opportunities related to:
-
-* ☁️ AWS Cloud
-* ⚙️ DevOps
-* 🛠️ Cloud Support
-* 🖥️ Cloud Operations
-* 🐧 Linux Administration
-* 🔄 CI/CD
-* 🌐 Cloud Infrastructure
+- 🎓 Computer Science graduate (B.Sc CS, CGPA 8.88/10.0), SPPU Pune
+- ☁️ Hands-on knowledge of **40+ AWS services** across compute, storage, networking, security, databases, monitoring, and serverless
+- 🌐 Working exposure to **Microsoft Azure** and **Google Cloud Platform (GCP)** fundamentals
+- 🐧 Skilled in **Linux administration**, shell scripting, and troubleshooting
+- 🔀 Comfortable with **Git/GitHub/GitLab** version control workflows
+- 🔭 Currently strengthening skills toward the **AWS Solutions Architect – Associate (SAA-C03)** certification
+- 🏆 Winner — Anekant TechnoComp 2026 Hackathon
+- 💬 Ask me about: AWS, Linux, Networking, Cloud Architecture, Monitoring & Troubleshooting
+- 📫 Reach me: **vikasjagtap.9996@gmail.com**
+- 🎯 Seeking: **Entry-level Cloud Support / Cloud Engineer** roles
 
 ---
 
-## 📚 My Learning Philosophy
+### 🛠️ Tech Stack
 
-> **Learn → Build → Deploy → Break → Troubleshoot → Improve**
-
-I believe practical projects are one of the best ways to understand cloud and DevOps technologies.
-
----
-
-## 🤝 Let's Connect
-
+**Cloud Platforms**
 <p>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**AWS Services**
+<p>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazoniam&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Route53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazoncloudfront&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white" />
+</p>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+**OS, Web & Scripting**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+</p>
+
+**Networking & Security**
+<p>
+  <img src="https://img.shields.io/badge/TCP%2FIP-003366?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DNS-4A90D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SSL%2FTLS-3DDC84?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=white" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
 ---
 
-## ⚡ A Little More About Me
+### 🏗️ Featured Projects
 
-```text
-☁️ Cloud Enthusiast
-⚙️ DevOps Learner
-🐧 Linux Practitioner
-🐳 Docker Learner
-🔄 CI/CD Explorer
-💻 Computer Science Graduate
-🚀 Always Learning
-```
+#### 🔹 [AWS Highly Available & Fault-Tolerant Web Application](https://github.com/vikasjagtap9696)
+`VPC` `EC2` `ALB` `Auto Scaling` `RDS` `Route 53` `CloudWatch` `IAM`
+- Designed a highly available architecture using multi-AZ EC2 instances behind an Application Load Balancer
+- Configured Auto Scaling and health checks for automatic instance replacement and traffic distribution
+- Implemented RDS for managed database services and CloudWatch for monitoring and alerting
+- Configured IAM roles and Security Groups following least-privilege principles
+
+#### 🔹 [AWS Infrastructure Monitoring & Incident Response Platform](https://github.com/vikasjagtap9696)
+`EC2` `CloudWatch` `SNS` `CloudTrail` `IAM` `S3` `Linux`
+- Implemented centralized monitoring for EC2 infrastructure using CloudWatch metrics, logs, and alarms
+- Configured SNS notifications for CPU, disk, and availability-related events
+- Used CloudTrail and CloudWatch logs for troubleshooting and activity analysis
+- Performed Linux-based troubleshooting for services, processes, disk usage, and system logs
+
+#### 🔹 [AWS Secure Multi-Tier Network Architecture](https://github.com/vikasjagtap9696)
+`VPC` `Public/Private Subnets` `NAT Gateway` `Route Tables` `Security Groups` `NACL` `EC2` `RDS`
+- Designed a secure multi-tier network with public and private subnets across multiple AZs
+- Configured route tables, NAT Gateway, Security Groups, and NACLs to control traffic
+- Deployed application servers in private subnets with secure access via a public load balancer
+- Troubleshot connectivity, routing, DNS, and security-related issues
+
+> 💡 Tip: Replace the project links above with the direct repo URLs once you add these projects to GitHub.
 
 ---
 
-### ⭐ Thanks for visiting my GitHub profile!
+### 📜 Certifications & Achievements
 
-**Feel free to explore my repositories and cloud projects.**
+- ✅ AWS Solutions Architect – Associate (SAA-C03) — *Exam Preparation*
+- ✅ AWS Cloud & DevOps Training — Naresh IT, Hyderabad
+- ✅ AWS SimuLearn: Cloud Computing Essentials — AWS Training & Certification, 2026
+- ✅ Introduction to Linux — Linux Foundation
+- 🏆 Hackathon Winner — Anekant TechnoComp 2026
 
-> 🚀 Building my way into the Cloud & DevOps world.
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikasjagtap9696&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasjagtap9696&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasjagtap9696&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikasjagtap9696&theme=tokyo-night&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🎓 Education
+
+**B.Sc – Computer Science** | CGPA: 8.88 / 10.0 | Jun 2023 – May 2026
+Tuljaram Chaturchand College of Arts, Commerce, Science, Baramati (Affiliated to SPPU, Pune)
+Coursework: Data Structures & Algorithms, Operating Systems, Computer Networks, DBMS, Cloud Computing, Software Engineering, Java Programming
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/vikasjagtap9696" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vikasjagtap.9996@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+919145317002"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>⭐️ Open to entry-level Cloud Support / Cloud Engineer opportunities — let's build something reliable and scalable together!</i></p>
