@@ -12,12 +12,18 @@
   <img src="https://img.shields.io/github/followers/vikasjagtap9696?label=Followers&style=social" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Services%20Explored-40%2B-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects%20Built-30%2B-success?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 ---
 
 ### 🚀 About Me
 
 - 🎓 Computer Science graduate (B.Sc CS, CGPA 8.88/10.0), SPPU Pune
 - ☁️ Hands-on knowledge of **40+ AWS services** across compute, storage, networking, security, databases, monitoring, and serverless
+- 🏗️ Built **30+ hands-on cloud projects** and labs covering architecture design, automation, and troubleshooting
 - 🌐 Working exposure to **Microsoft Azure** and **Google Cloud Platform (GCP)** fundamentals
 - 🐧 Skilled in **Linux administration**, shell scripting, and troubleshooting
 - 🔀 Comfortable with **Git/GitHub/GitLab** version control workflows
@@ -29,13 +35,18 @@
 
 ---
 
-### 📚 Currently Learning
+### ☁️ Cloud Learning — Completed
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20SAA--C03-in%20progress-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-exploring-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-exploring-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud%20Security-exploring-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Core%20Services-completed-success?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-completed-success?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Fundamentals-completed-success?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Security%20%26%20IAM-completed-success?style=for-the-badge&logo=amazoniam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20Administration-completed-success?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20SAA--C03-exam%20prep%20in%20progress-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
