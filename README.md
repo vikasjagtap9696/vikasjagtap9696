@@ -122,27 +122,35 @@
 
 ### 🏗️ Featured Projects
 
-#### 🔹 [AWS Highly Available & Fault-Tolerant Web Application](https://github.com/vikasjagtap9696/aws-ha-web-app)
-`VPC` `EC2` `ALB` `Auto Scaling` `RDS` `Route 53` `CloudWatch` `IAM`
-- Designed a highly available architecture using multi-AZ EC2 instances behind an Application Load Balancer
-- Configured Auto Scaling and health checks for automatic instance replacement and traffic distribution
-- Implemented RDS for managed database services and CloudWatch for monitoring and alerting
-- Configured IAM roles and Security Groups following least-privilege principles
+#### 🔹 [AWS Blue-Green Canary Deployment](https://github.com/vikasjagtap9696/aws-blue-green-canary-deployment)
 
-#### 🔹 [AWS Infrastructure Monitoring & Incident Response Platform](https://github.com/vikasjagtap9696/aws-monitoring-platform)
-`EC2` `CloudWatch` `SNS` `CloudTrail` `IAM` `S3` `Linux`
-- Implemented centralized monitoring for EC2 infrastructure using CloudWatch metrics, logs, and alarms
-- Configured SNS notifications for CPU, disk, and availability-related events
-- Used CloudTrail and CloudWatch logs for troubleshooting and activity analysis
-- Performed Linux-based troubleshooting for services, processes, disk usage, and system logs
+`AWS` `Blue-Green Deployment` `Canary Deployment` `DevOps`
 
-#### 🔹 [AWS Secure Multi-Tier Network Architecture](https://github.com/vikasjagtap9696/aws-secure-network)
-`VPC` `Public/Private Subnets` `NAT Gateway` `Route Tables` `Security Groups` `NACL` `EC2` `RDS`
-- Designed a secure multi-tier network with public and private subnets across multiple AZs
-- Configured route tables, NAT Gateway, Security Groups, and NACLs to control traffic
-- Deployed application servers in private subnets with secure access via a public load balancer
-- Troubleshot connectivity, routing, DNS, and security-related issues
+Implemented a production-style deployment strategy using **Blue-Green and Canary deployments on AWS** to release new application versions with minimal downtime and controlled traffic shifting. The project demonstrates safe releases, rollback strategies, and gradual production validation.
 
+#### 🔹 [AWS S3 Multipart Upload](https://github.com/vikasjagtap9696/aws-s3-multipart-upload-github-project)
+
+`Amazon S3` `Multipart Upload` `AWS`
+
+Built an **AWS S3 Multipart Upload** solution for handling large file uploads efficiently by splitting files into smaller parts and uploading them independently. This improves upload reliability and performance while supporting large-scale file transfer scenarios.
+
+#### 🔹 [MySQL to PostgreSQL Migration Using AWS](https://github.com/vikasjagtap9696/mysql-postgresql-migration-using-aws)
+
+`MySQL` `PostgreSQL` `AWS` `Database Migration`
+
+Implemented a **database migration workflow from MySQL to PostgreSQL using AWS services**. The project focuses on schema and data migration, compatibility considerations, validation, and reducing downtime during database modernization.
+
+#### 🔹 [AWS S3 Lambda RDS Registration](https://github.com/vikasjagtap9696/aws-s3-lambda-rds-registration)
+
+`Amazon S3` `AWS Lambda` `Amazon RDS` `Serverless`
+
+Built a **serverless event-driven architecture** where an object uploaded to Amazon S3 triggers an AWS Lambda function that processes the event and registers the required information in Amazon RDS. This project demonstrates event-driven automation, serverless computing, and AWS service integration.
+
+#### 🔹 [AWS WordPress RDS Blue-Green Deployment](https://github.com/vikasjagtap9696/aws-wordpress-rds-blue-green)
+
+`WordPress` `Amazon RDS` `Blue-Green Deployment` `AWS`
+
+Designed a **WordPress deployment architecture using Amazon RDS with Blue-Green deployment principles** to enable safer application and database changes. The project demonstrates production deployment practices, database environment switching, reduced downtime, and rollback capability.
 
 ---
 
