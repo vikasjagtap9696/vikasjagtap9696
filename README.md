@@ -201,8 +201,6 @@ reach_me:    vikasjagtap.9996@gmail.com
 
 - ✅ AWS Solutions Architect – Associate (SAA-C03) — *Exam Preparation*
 - ✅ AWS Cloud & DevOps Training — Naresh IT, Hyderabad
-- ✅ AWS SimuLearn: Cloud Computing Essentials — AWS Training & Certification, 2026
-- ✅ Introduction to Linux — Linux Foundation
 - 🏆 Hackathon Winner — Anekant TechnoComp 2026
 
 ---
