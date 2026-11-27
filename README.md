@@ -39,7 +39,7 @@ cloud:
   - AWS      # 40+ services
   - Azure    # fundamentals
   - GCP      # fundamentals
-skills:      [Linux, Networking, Shell Scripting, Git]
+skills:      [Linux, Networking, Shell Scripting, Git, Terraform, Docker]
 currently:   Preparing for AWS SAA-C03
 achievement: Winner — Anekant TechnoComp 2026 Hackathon
 seeking:     Entry-level Cloud Support / Cloud Engineer
@@ -60,7 +60,7 @@ reach_me:    vikasjagtap.9996@gmail.com
 </table>
 
 - 🔀 Comfortable with **Git / GitHub / GitLab** workflows
-- 💬 Ask me about: **AWS, Linux, Networking, Cloud Architecture, Monitoring & Troubleshooting**
+- 💬 Ask me about: **AWS, Linux, Networking, Cloud Architecture, Terraform, CI/CD, Monitoring & Troubleshooting**
 
 ---
 
@@ -119,6 +119,7 @@ reach_me:    vikasjagtap.9996@gmail.com
   <img src="https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazonecs&logoColor=white" />
   <img src="https://img.shields.io/badge/Elastic%20Beanstalk-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodePipeline-527FFF?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/KMS-DD344C?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Secrets%20Manager-DD344C?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Systems%20Manager-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
@@ -126,6 +127,17 @@ reach_me:    vikasjagtap.9996@gmail.com
   <img src="https://img.shields.io/badge/Transit%20Gateway-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Organizations-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Cost%20Explorer-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
+
+**DevOps & IaC**
+
+<p>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
 </p>
 
 **Networking & Security**
@@ -144,12 +156,54 @@ reach_me:    vikasjagtap.9996@gmail.com
 <table>
 <tr>
 <td align="center" width="50%">
+  <a href="https://github.com/vikasjagtap9696/cloudcart-ecommerce-microservices">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vikasjagtap9696&repo=cloudcart-ecommerce-microservices&theme=tokyonight&hide_border=true" />
+  </a>
+  <br/><sub><code>Microservices</code> <code>Docker</code> <code>Kubernetes</code> <code>AWS</code></sub>
+</td>
+<td align="center" width="50%">
+  <a href="https://github.com/vikasjagtap9696/aws-3tier-cicd-codepipeline-react-node-mysql">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vikasjagtap9696&repo=aws-3tier-cicd-codepipeline-react-node-mysql&theme=tokyonight&hide_border=true" />
+  </a>
+  <br/><sub><code>CodePipeline</code> <code>React</code> <code>Node.js</code> <code>MySQL</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/vikasjagtap9696/netflix-clone-devsecops-pipeline">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vikasjagtap9696&repo=netflix-clone-devsecops-pipeline&theme=tokyonight&hide_border=true" />
+  </a>
+  <br/><sub><code>DevSecOps</code> <code>Jenkins</code> <code>Docker</code> <code>Security Scans</code></sub>
+</td>
+<td align="center">
+  <a href="https://github.com/vikasjagtap9696/Terraform-3tier-Project">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vikasjagtap9696&repo=Terraform-3tier-Project&theme=tokyonight&hide_border=true" />
+  </a>
+  <br/><sub><code>Terraform</code> <code>3-Tier</code> <code>IaC</code> <code>AWS</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/vikasjagtap9696/Terraform-Project-VPC-RDS-">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vikasjagtap9696&repo=Terraform-Project-VPC-RDS-&theme=tokyonight&hide_border=true" />
+  </a>
+  <br/><sub><code>Terraform</code> <code>VPC</code> <code>RDS</code></sub>
+</td>
+<td align="center">
+  <a href="https://github.com/vikasjagtap9696/AWS-Three-Tier-VPC-Architecture">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vikasjagtap9696&repo=AWS-Three-Tier-VPC-Architecture&theme=tokyonight&hide_border=true" />
+  </a>
+  <br/><sub><code>VPC</code> <code>Subnets</code> <code>NAT</code> <code>Security Groups</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
   <a href="https://github.com/vikasjagtap9696/aws-blue-green-canary-deployment">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vikasjagtap9696&repo=aws-blue-green-canary-deployment&theme=tokyonight&hide_border=true" />
   </a>
   <br/><sub><code>AWS</code> <code>Blue-Green</code> <code>Canary</code> <code>DevOps</code></sub>
 </td>
-<td align="center" width="50%">
+<td align="center">
   <a href="https://github.com/vikasjagtap9696/aws-s3-multipart-upload-github-project">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vikasjagtap9696&repo=aws-s3-multipart-upload-github-project&theme=tokyonight&hide_border=true" />
   </a>
@@ -183,6 +237,12 @@ reach_me:    vikasjagtap.9996@gmail.com
 <details>
 <summary><b>📖 Project details (click to expand)</b></summary>
 
+- **CloudCart E-commerce Microservices** — E-commerce application split into independent microservices (catalog, cart, orders, etc.), containerized with Docker and deployed on AWS/Kubernetes for scalability and easier updates.
+- **AWS 3-Tier CI/CD with CodePipeline** — Automated CI/CD pipeline using AWS CodePipeline for a React (frontend), Node.js (backend) and MySQL (database) 3-tier app, from commit to deployment.
+- **Netflix Clone DevSecOps Pipeline** — Netflix-style app deployed through a DevSecOps pipeline with automated build, security scanning, containerization and deployment.
+- **Terraform 3-Tier Architecture** — Complete 3-tier infrastructure (web, app, database layers) on AWS provisioned as code with Terraform: repeatable, version-controlled and easy to tear down.
+- **Terraform VPC + RDS** — Terraform project that builds a custom VPC with public/private subnets and a secure Amazon RDS database in the private layer.
+- **AWS Three-Tier VPC Architecture** — Hands-on build of a secure 3-tier network on AWS: VPC, public/private subnets, route tables, Internet/NAT gateways and Security Groups for layered access control.
 - **AWS Blue-Green Canary Deployment** — Production-style Blue-Green and Canary deployments on AWS with controlled traffic shifting, rollback strategy, and gradual production validation.
 - **AWS S3 Multipart Upload** — Efficient large-file uploads by splitting files into parts and uploading independently for better reliability and performance.
 - **MySQL → PostgreSQL Migration on AWS** — Schema and data migration workflow with compatibility checks, validation, and reduced downtime.
